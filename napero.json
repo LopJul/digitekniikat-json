@@ -1,0 +1,10 @@
+{
+  "yritys": "Napero kauppa",
+  "yhteystiedot": {
+    "osoite": "Merikarhuntie 1, Espoo",
+    "verkkosivu": "www.naperokauppa.fi",
+    "puhelin": "040 123 1234",
+    "email": "asiakaspalvelu@napero.fi"
+  },
+  "tuotteet": ["lasten vaatteet", "lasten asusteet", "lasten kengät"]
+}
